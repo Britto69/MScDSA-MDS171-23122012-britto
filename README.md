@@ -14,8 +14,7 @@ Class : MScDs A
 Email : britto.fernandes@msds.christuniversity.in
 >>>>>>> 4e92f87 (version updated by leran)
 =======
-Email : britto.fernandes@msds.christuniversity.in
->>>>>>> 328aedd (Update made by me)
+
 =======
 
 Email : britto.fernandes@msds.christuniversity.in
@@ -23,11 +22,11 @@ Email : britto.fernandes@msds.christuniversity.in
 
 <<<<<<< HEAD
 roronoa zoro
->>>>>>> 191f442 (Update made by me)
+>>>>>>> britto (Update made by me)
 =======
 
 roronoa zoro
->>>>>>> aa52110 (Update made by me)
+>>>>>>> britto (Update made by me)
 =======
 roronoa zoro
->>>>>>> f410091 (Update made by mppxxdodjdjde)
+>>>>>>> britto (Update made by britto)
